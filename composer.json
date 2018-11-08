@@ -1,0 +1,20 @@
+{
+    "name": "laraveldaily/home",
+    "description": "Demo-package to show feed",
+    "authors": [
+        {
+            "name": "Joao",
+            "email": "Joao@working.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Laraveldaily\\Home\\HomeServiceProvider"
+            ]
+        }
+    }
+
+}
